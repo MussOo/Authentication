@@ -1,7 +1,7 @@
 # Systeme Authentification React Js (ViteJs) 
 
 
-Simple systeme d'authentification React native lié a une api que j'ai crée (Test-Technique_FINDEE sur mon GitHub)
+Simple systeme d'authentification React.Js lié a une api que j'ai crée (Test-Technique_FINDEE sur mon GitHub)
 
 ### Pré-requis
 

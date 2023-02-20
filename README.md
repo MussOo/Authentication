@@ -16,13 +16,13 @@ Les étapes pour installer votre programme....
 
 Pour le client :
 
-- git clone [Lien du depot]
+- git clone https://github.com/MussOo/Authentication.git
 - `npm i`
 
 
 Pour le Back-end :
 
-- git clone [Lien du depot]
+- git clone https://github.com/MussOo/Test-Technique_FINDEE.git
 - `npm i`
 
 
